@@ -1,4 +1,4 @@
-# This is the backend assessment challenge complete by "Charles David Vivas"
+# This is the backend assessment challenge completed by "Charles David Vivas"
 
 # Main technologies
   - Javascript
